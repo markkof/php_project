@@ -1,0 +1,19 @@
+{
+    "name": "markkof/php_project",
+    "description": "a new php project with composer",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Markkof\\PhpProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "markkof",
+            "email": "markkof@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
